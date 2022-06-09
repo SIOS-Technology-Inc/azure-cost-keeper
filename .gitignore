@@ -364,3 +364,6 @@ FodyWeavers.xsd
 
 # launchsettings.json
 CostKeeper.Program.CostAlertBatch/Properties/launchsettings.json
+
+# .DS_Store
+.DS_Store
