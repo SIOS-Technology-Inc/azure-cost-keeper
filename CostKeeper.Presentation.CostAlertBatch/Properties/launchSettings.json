@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CostKeeper.Presentation.CostAlertBatch": {
+      "commandName": "Project"
+    }
+  }
+}

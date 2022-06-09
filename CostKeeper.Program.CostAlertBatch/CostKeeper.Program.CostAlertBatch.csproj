@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <NoDefaultLaunchSettingsFile>true</NoDefaultLaunchSettingsFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CostKeeper.Domain\CostKeeper.Domain.csproj" />
+    <ProjectReference Include="..\CostKeeper.Infrastructure\CostKeeper.Infrastructure.csproj" />
+    <ProjectReference Include="..\CostKeeper.Presentation.CostAlertBatch\CostKeeper.Presentation.CostAlertBatch.csproj" />
+  </ItemGroup>
+
+</Project>
